@@ -1,0 +1,16 @@
+
+.git
+.github
+.vscode
+.mvn
+src
+*.log
+.env
+.env.*
+!.env.example
+README.md
+k8s
+mvnw
+mvnw.cmd
+target/*
+!target/*.jar
